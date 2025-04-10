@@ -1,0 +1,7 @@
+# Core dependencies
+pynput==1.7.6  # For keyboard input handling
+pyserial==3.5  # For serial communication with Arduino/ESP8266
+
+# Optional but recommended packages
+numpy==1.25.0  # For numerical operations
+matplotlib==3.7.1  # For plotting and visualization
